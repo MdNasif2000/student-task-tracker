@@ -1,4 +1,4 @@
-# Student Task Tracker
+<h1 text-align = "center"> Student Task Tracker <h1/>
 
 ![Banner](banner.png)
 
