@@ -83,3 +83,9 @@ Tasks are stored in JSON array form. Example:
 ```
 
 `updated_at` is present only if the task has been updated.
+
+
+## License
+
+This project is licensed under the MIT License — a permissive open-source license that allows personal and commercial use, modification, and distribution.
+See the LICENSE file for full details.
